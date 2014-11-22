@@ -1,19 +1,19 @@
-/**Napisati program koji uËitava tri cijela broja iz interval od 50 do 200 . Ako neki od
+/**Napisati program koji u√®itava tri cijela broja iz interval od 50 do 200 . Ako neki od
 
-unesenih brojeva nisu iz tog intervala, program treba ispisati poruku i zavröiti sa 
+unesenih brojeva nisu iz tog intervala, program treba ispisati poruku i zavr≈°iti sa 
 
 radom. Ako su brojevi unutar tog intervala, potrebno je ispisati unesene brojeve 
 
-poredane po veliËini, od najmanjeg prema najvecem. Dodatno je potrebno odrediti 
+poredane po veli√®ini, od najmanjeg prema najvecem. Dodatno je potrebno odrediti 
 
-koliko razliËitih brojeva je uneseno.
+koliko razli√®itih brojeva je uneseno.
  * 
  * @author Vedad
  *
  */
 
 import java.util.Scanner;
-
+//Za unos 300 300 300 program ispisuje Svi brojevi su isti.
 public class pedesetDo200Interval {
 	public static void main(String[] args) {
 		int broj1;
